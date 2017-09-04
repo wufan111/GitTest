@@ -1,0 +1,19 @@
+mkdir   ==>　创建文件夹
+
+盘符：　＋　回车; 
+
+cd + 文件夹名 => 进入对应文件夹;
+
+git init => 创建版本库;
+
+（.git 就是版本库  => 隐藏文件夹）;
+
+// 把文件添加到版本库中;
+
+1. git add "文件名" 
+
+fatal: pathspec 'gitBassh指令.txt' did not match any files  没找到文件;
+
+1.2 git status => 查看git 提交状态;
+
+2. commit -m “第一次提交gitbash指令”
